@@ -321,14 +321,14 @@ table.dataTable td {
 }
 .dataTables_wrapper .dataTables_paginate {
   /*float: right;*/
-  text-align: justify !important;
+  text-align: left !important;
 }
 .dataTables_wrapper .dataTables_paginate .fg-button {
   box-sizing: border-box;
   display: inline-block;
   min-width: 1.5em;
   margin-left: 5px !important;
-  text-align: justify !important;
+  text-align: center !important;
   text-decoration: none !important;
   cursor: pointer;
   *cursor: hand;
