@@ -5,7 +5,7 @@
     "infoFiltered":   "(tersaring dari _MAX_ total data)",
     "infoPostFix":    "",
     "thousands":      ",",
-    "lengthMenu":     "Show _MENU_ entries",
+    "lengthMenu":     "Menampilkan _MENU_ baris",
     "loadingRecords": "Harap tunggu...",
     "processing":     "Proses...",
     "search":         "Pencarian :",
